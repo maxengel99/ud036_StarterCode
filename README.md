@@ -11,11 +11,9 @@ A website with trailers for various movies. The first project in the Full Stack 
 
 ### Installing
 
-'''
-git clone https://github.com/maxengel99/ud036_StarterCode.git
+'''git clone https://github.com/maxengel99/ud036_StarterCode.git
 cd ud036_StarterCode
-python entertainment_center.py
-'''
+python entertainment_center.py'''
 
 ## Built With
 
