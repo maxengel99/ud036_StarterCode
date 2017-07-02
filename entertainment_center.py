@@ -29,7 +29,7 @@ get_out = media.Movie("Get Out",
 wonder_woman = media.Movie("Wonder Woman",
                            "https://images-na.ssl-images-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_SX675_AL_.jpg",
                            "https://www.youtube.com/watch?v=VSB4wGIdDwo")
-                      
+
 
 # create movie array and pass to fresh_tomatoes
 movies = [toy_story, avatar, snowden, before_i_fall, get_out, wonder_woman]
